@@ -1,0 +1,11 @@
+{
+    "Disk Created Sucessfully!": 
+    {
+        "DiskPath": "B:/ONIXAPI/KaydenDisk.zip",
+        "DiskSize": 22,
+        "DiskContent": 0,    
+        "DiskUser": {
+                        "name": "Kayden"    
+                    }
+    }
+}
